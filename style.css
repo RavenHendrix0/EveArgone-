@@ -54,7 +54,8 @@ h3{
 	font-family:Georgia, serif;
 	color:gray;
 }
-img{
+#box{
+	background-color:black;
 	margin:20px;
 	width:306;
 	height:150;
